@@ -1,5 +1,5 @@
 # PayrollApplication
-Simple Payroll Application with Login Form.
+Simple Payroll Application with Login Form for Parttime worker who will pay hourly.
 
 This Application using java as programming language.
 
